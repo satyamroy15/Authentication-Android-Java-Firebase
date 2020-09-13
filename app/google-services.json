@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966261287223",
+    "firebase_url": "https://authitandroid.firebaseio.com",
+    "project_id": "authitandroid",
+    "storage_bucket": "authitandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966261287223:android:963c3941e0a46be0a192b2",
+        "android_client_info": {
+          "package_name": "com.sroy.authit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966261287223-djq8tpe2nq2qj99olt8miq5bk1jf01ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3LBPSnFMHDeGjlzebq8AGJ8Z7Fw4ztZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966261287223-djq8tpe2nq2qj99olt8miq5bk1jf01ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
